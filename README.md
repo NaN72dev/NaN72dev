@@ -1,4 +1,10 @@
-## Hi there 👋
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/NaN72dev"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **NaN72dev/NaN72dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
